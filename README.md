@@ -25,6 +25,6 @@
 
 > 작성자: Park Sanggi  
 > Email: psg1616@proton.me  
-> GitHub: [https://github.com/psg1616](https://github.com/psg1616)
+> GitHub: https://www.linkedin.com/in/sanggi-park-7b7665275/
 
 ---
