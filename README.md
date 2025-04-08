@@ -1,3 +1,7 @@
+📌 본 폴더는 도요타의 구조와 철학을 더 깊이 이해하기 위한 비교 연구 과정에서 작성되었습니다.  
+삼성 역시 정렬 구조를 구현할 수 있다는 가능성에 대한 탐색으로,  
+본 기록은 AI 시대의 기업 윤리 구조에 대한 실험적 제안입니다.
+
 # 삼성 정렬 구조 제안 아카이브
 
 # Reconstructing Mathematical Efficiency through AI and Modular Systems
