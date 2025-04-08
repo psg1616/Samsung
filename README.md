@@ -2,7 +2,8 @@
 
 # Reconstructing Mathematical Efficiency through AI and Modular Systems
 
-This repository proposes a new structure to automate mathematical verification using AI and modular logic systems.
+📂 Folder 4 Overview:
+This folder proposes a new structure to automate mathematical verification using AI and modular logic systems.
 It reformulates the equation `A = B` as a controllable structure, enabling dynamic adjustment and intelligent evaluation through machine reasoning.
 
 📌 Applicable to:
