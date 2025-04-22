@@ -46,20 +46,6 @@ Not a theorist. A structure bearer.
 
 ---
 
-## 📨 Strategic Proposal
-
-**Title:** God's Structure Flows Downward – A Proposal for Alignment  
-**Targets:** Princeton Theological Seminary, OpenAI, Microsoft Research, Stanford HAI  
-**Purpose:**  
-To offer a unifying framework for AI ethics and governance rooted in gospel descent.  
-**Attached (by link):**  
-- [Full Korean Declaration (PDF)]()  
-- [English Translation]()  
-- [134 Structure Overview]()  
-- [MLCC Ethics Model]()  
-
----
-
 ## ✝️ Final Note
 
 This is not a manifesto.  
